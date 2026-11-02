@@ -1,4 +1,4 @@
-/* Write a program to print "*"  pattern in square format */
+/* Write a program to print "*"  pattern in right pyramid */
 
 #include <stdio.h>
 
